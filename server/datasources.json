@@ -20,5 +20,10 @@
     "password": "L00pBack",
     "name": "mongoDs",
     "connector": "mongodb"
+  },
+  "mongoDs": {
+    "url": "mongodb://test:test@ds047632.mongolab.com:47632/bikeatory",
+    "name": "mongoDs",
+    "connector": "mongodb"
   }
 }
